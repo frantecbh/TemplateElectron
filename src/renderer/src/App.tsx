@@ -1,9 +1,8 @@
-
 export function App() {
-  return(
+  return (
     <div className="text-violet-500 h-screen bg-zinc-500">
-        <h1>Ola frantec!</h1>
+      <h1>Ola frantec!</h1>
+      <span>teste</span>
     </div>
   )
-  
 }
